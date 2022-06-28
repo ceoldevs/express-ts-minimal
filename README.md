@@ -22,7 +22,7 @@ programming.
  Click on the **use this template** button and copy the
 repo under your account.
 
-![Use Template](https://raw.githubusercontent.com/orbitdb/repo-template/main/.github/assets/use-template.png)
+![Use Template](https://raw.githubusercontent.com/ceoldevs/express-ts-minimal/main/.github/assets/use-template.png)
 
 ### Method 2
 
@@ -30,10 +30,14 @@ Install `degit` from npm/yarn or use npx command and clone
 the repo using the below command.
 
 ```bash
+mkdir express-ts-minimal
+cd express-ts-minimal
 degit https://github.com/ceoldevs/express-ts-minimal.git 
 ```
 or
 ```bash
+mkdir express-ts-minimal
+cd express-ts-minimal
 npx degit https://github.com/ceoldevs/express-ts-minimal.git 
 ```
 
